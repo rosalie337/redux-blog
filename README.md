@@ -4,7 +4,7 @@ Create all the redux state management for a blog.
 
 ## Blog Action
 
-[ ] create `src/actions/postActions.js`
+[x] create `src/actions/postActions.js`
 [ ] posts have an title and body
 [ ] you can create a post
 [ ] you can delete a post
